@@ -1,3 +1,5 @@
+<img src="https://icons-for-free.com/download-icon-chat+icon-1320184411998302345_512.png" width="200px" height="200px">
+
 # Chat application
 
 Design a Chat Application. 
