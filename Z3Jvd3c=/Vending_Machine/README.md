@@ -1,23 +1,23 @@
-# Vending Machine
+<img src="https://thumbs.dreamstime.com/b/vending-machine-bottled-drinks-isolated-icon-vector-illustration-design-139879624.jpg" width="200px" height="200px">
+
+## Vending Machine
 
 Write code for basic vending machine implementation.
 
-## Functionality: 
+### Problem Statement: 
 
 - Display the products with prices and quantities currently available
 - Ask the user to select product with quantities and show him the cost
 - Do a transaction if everything is valid and return the change 
-
-
-### Other features
 
 - Items can be changed or increased
 - It should be scalable and production ready code.
 - Denominations can also change.
 
 
-### Sample data
+#### Sample data
 
+```
 Products: 
 Pepsi, Dairy milk, Lays
 
@@ -29,43 +29,47 @@ Price  (per unit)
 
 Denominations: (currency in INR)
 5, 10, 20, 50 , 100 
-
+```
 
 
 -------
 
-## Notes
+### Code/Run
 
-- Code file `cr.cpp`
-- Run `./run.sh`
+- Download code file: [cr.cpp](https://github.com/alpha74/LLD-MachineCoding/blob/main/Z3Jvd3c%3D/Vending_Machine/cr.cpp)
+- Downloan [run.sh](https://github.com/alpha74/LLD-MachineCoding/blob/main/Z3Jvd3c%3D/Vending_Machine/run.sh) file.
+- Run `./run.sh` 
 
 
-### VendingMachine
+### Classes
+
+
+#### VendingMachine
 
 - Has a list of `Inventory`
 - Has a list of `Coin`s defined
 - Has some list of coins called `Cash` 
 
 
-### Inventory
+#### Inventory
 
 - productId
 - qty
 
 
-### Product
+#### Product
 
 - id
 - price
 - name
 
 
-### Coin
+#### Coin
 
 - value
 
 
-### Cash
+#### Cash
 
 - `Coin`
 - qty: -1
