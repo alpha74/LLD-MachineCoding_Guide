@@ -17,9 +17,15 @@
   - Year Added : 2022 (Z3Jvd3c=)
  
   
-
 - [Pendency System : Machine Coding](https://github.com/alpha74/PendencySystem_JavaSpringBoot)
   - Java, Spring Boot working code done as practice.
+  - MVC, OOPs
+  - Includes Test cases driver
+  - Year Added : 2023 (cGhvbmVwZQ==)
+  
+  
+- [Online Code Judge/Hackathon System : Machine Coding](https://github.com/alpha74/OnlineJudge_JavaSpringBoot)
+  - Java, Spring Boot working code for actual interview.
   - MVC, OOPs
   - Includes Test cases driver
   - Year Added : 2023 (cGhvbmVwZQ==)
