@@ -30,7 +30,7 @@
   - Includes Test cases driver
   - Year Added : 2023 (cGhvbmVwZQ==)
  
-- [Pub-sub Queue : Machine Coding](https://github.com/alpha74/OnlineJudge_JavaSpringBoot)
+- [Pub-sub Queue : Machine Coding](https://github.com/alpha74/Pub-Sub-Queue_JavaSpringBoot)
   - Java, Spring Boot working code for actual interview.
   - MVC, OOPs
   - Includes Driver class
