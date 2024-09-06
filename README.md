@@ -1,6 +1,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2519/2519375.png" height="250px" width="250px">
 
-## LLD and Machine Coding Interview
+## LLD-Machine Coding Interview Solutions
 
 
 - [Chat Application : LLD](https://github.com/alpha74/LLD-MachineCoding/tree/main/eWVsbG93LmFp/Chat_Application)
@@ -29,3 +29,9 @@
   - MVC, OOPs
   - Includes Test cases driver
   - Year Added : 2023 (cGhvbmVwZQ==)
+ 
+- [Pub-sub Queue : Machine Coding](https://github.com/alpha74/OnlineJudge_JavaSpringBoot)
+  - Java, Spring Boot working code for actual interview.
+  - MVC, OOPs
+  - Includes Driver class
+  - Year Added : 2024 (cmF6b3JwYXk=)
